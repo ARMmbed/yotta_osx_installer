@@ -1,4 +1,4 @@
-#!/Users/arm/Desktop/install_yotta/workspace/bin/python
+#!$YOTTA_CWD/workspace/bin/python
 
 # Copyright (c) 2008,2010,2011,2013,2014,2015 Alexander Belchenko
 # All rights reserved.
