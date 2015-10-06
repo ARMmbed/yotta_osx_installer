@@ -11,7 +11,7 @@ export PATH=$PATH
 #exec "$CWD"/source/test.sh $CWD
 #exec bash $CWD/workspace/bin/activate
 #source "$CWD"/source/test.sh $CWD
-echo "export YOTTA_PATH='$YOTTA_PATH';export YOTTA_CWD='$CWD';source $CWD/workspace/bin/activate;bash">$CWD/source/activateVE.sh
+echo "export YOTTA_PATH='$YOTTA_PATH';export YOTTA_CWD='$CWD';source $CWD/workspace/bin/activate;/bin/sh">$CWD/source/activateVE.sh
 chmod 777 $CWD/source/activateVE.sh
 open --fresh -a Terminal.app $CWD/source/activateVE.sh 
 #rm $CWD/source/activateVE.sh
