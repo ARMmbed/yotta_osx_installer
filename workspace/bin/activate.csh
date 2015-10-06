@@ -10,7 +10,7 @@ deactivate nondestructive
 setenv VIRTUAL_ENV "$YOTTA_CWD/workspace"
 
 set _OLD_VIRTUAL_PATH="$PATH"
-setenv PATH "$VIRTUAL_ENV/bin:$PATH"
+setenv PATH "$YOTTA_PATH:$VIRTUAL_ENV/bin:$PATH"
 
 
 
