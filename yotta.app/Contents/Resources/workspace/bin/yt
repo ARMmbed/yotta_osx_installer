@@ -1,5 +1,0 @@
-#!/Users/arm/Desktop/install_yotta/workspace/bin/python
-
-import yotta
-yotta.main()
-
