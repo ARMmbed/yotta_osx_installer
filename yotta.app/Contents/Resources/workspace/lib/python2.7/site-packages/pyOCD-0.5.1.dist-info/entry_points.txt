@@ -1,0 +1,5 @@
+[console_scripts]
+pyocd-flashtool = pyOCD.tools.flash_tool:main
+pyocd-gdbserver = pyOCD.tools.gdb_server:main
+pyocd-tool = pyOCD.tools.pyocd:main
+

@@ -1,0 +1,3 @@
+[console_scripts]
+mbed_test_wrapper = mbed_test_wrapper:run
+

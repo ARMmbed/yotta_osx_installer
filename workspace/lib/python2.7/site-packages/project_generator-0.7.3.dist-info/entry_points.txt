@@ -1,0 +1,4 @@
+[console_scripts]
+pgen = project_generator.main:main
+project_generator = project_generator.main:main
+
