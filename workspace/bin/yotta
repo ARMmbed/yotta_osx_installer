@@ -1,4 +1,4 @@
-#!$YOTTA_CWD/workspace/bin/python
+#! /usr/bin/env python
 
 import yotta
 yotta.main()

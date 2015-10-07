@@ -1,4 +1,4 @@
-#!$YOTTA_CWD/workspace/bin/python
+#! /usr/bin/env python
 
 # Copyright (c) 2011-2015 Alexander Belchenko
 # All rights reserved.

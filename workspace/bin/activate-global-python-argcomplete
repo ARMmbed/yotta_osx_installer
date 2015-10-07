@@ -1,4 +1,4 @@
-#!$YOTTA_CWD/workspace/bin/python
+#! /usr/bin/env python
 # PYTHON_ARGCOMPLETE_OK
 
 # Copyright 2012-2013, Andrey Kislyuk and argcomplete contributors.
