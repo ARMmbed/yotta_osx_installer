@@ -1,1 +1,1 @@
-do shell script "$PWD/source/run_yotta.sh"
+do shell script "\"$PWD\"/source/run_yotta.sh"
