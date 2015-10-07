@@ -1,4 +1,4 @@
-#!/Users/arm/Desktop/yotta.app/Contents/Resources/workspace/bin/python
+#! /usr/bin/env python
 
 # -*- coding: utf-8 -*-
 import re
