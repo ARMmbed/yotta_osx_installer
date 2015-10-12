@@ -1,7 +1,7 @@
 #!/bin/bash
 #/Applications/Utilities/Terminal.app/Contents/MacOS/Terminal
 CWD=$PWD
-YOTTA_PATH="$CWD/prerequisites;$CWD/prerequisites/gcc-arm-none-eabi-4_9-2015q3/bin:$CWD/prerequisites/CMake.app/Contents/bin:"
+YOTTA_PATH="$CWD/prerequisites:$CWD/prerequisites/gcc-arm-none-eabi-4_9-2015q3/bin:$CWD/prerequisites/CMake.app/Contents/bin:"
 echo "yt path = $YOTTA_PATH"
 PATH="$YOTTA_PATH:$PATH"
 echo "path = $PATH"
