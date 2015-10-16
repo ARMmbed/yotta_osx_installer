@@ -1,3 +1,4 @@
+Yotta Installer includes third-party code under the following licenses:
 
 CMake 3.2.1
 Cross Platform Makefile Generator
