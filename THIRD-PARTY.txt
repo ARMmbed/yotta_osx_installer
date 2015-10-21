@@ -42,7 +42,7 @@ Ninja
 Copyright 2011 Google Inc. All Rights Reserved.
 
 This project is distributed under the Apache 2.0 License.
-Please see the LICENSE file for details.
+Please see the LICENSE file for the full text of the license.
 
 =====================================================================
 
@@ -125,7 +125,7 @@ STICHTING MATHEMATISCH CENTRUM DISCLAIMS ALL WARRANTIES WITH REGARD TO THIS SOFT
 
 GCC v4.9
 
-See information here for the corresponding source code:
+The corresponding source code is available here:
 https://launchpad.net/gcc-arm-embedded
 https://launchpadlibrarian.net/209776344/release.txt
 
@@ -365,18 +365,17 @@ The GNU General Public License does not permit incorporating your program into p
 
 Git-scm v2.5.3
 
-See information here for the corresponding source code:
+The corresponding source code is available here:
 http://git-scm.com/download/win
 https://github.com/git-for-windows/git
 
-The software included in this product contains copyrighted software that is licensed under the GPL.You may obtain the complete Corresponding Source code from us, by sending a request to: 
-GPL Compliance Division
-cc Senior IoT Apps Engineer 
-ARM Inc.
-Encino Trace
-5707 Southwest Pkwy
-Bld 1 Suite 100
-Austin, TX 78735
+
+Mercurial v3.5.1
+
+See information here for the corresponding source code:
+https://www.mercurial-scm.org/wiki/Download
+https://www.mercurial-scm.org/wiki/License
+
 
                     GNU GENERAL PUBLIC LICENSE
                        Version 2, June 1991
@@ -718,22 +717,3 @@ consider it more useful to permit linking proprietary applications with the
 library.  If this is what you want to do, use the GNU Lesser General
 Public License instead of this License.
 
-=====================================================================
-
-Mercurial v3.5.1
-
-See information here for the corresponding source code:
-https://www.mercurial-scm.org/wiki/Download
-https://www.mercurial-scm.org/wiki/License
-
-This project is distributed under the GNU GENERAL PUBLIC LICENSE Version 2.
-Please see the LICENSE file for details.
-
-The software included in this product contains copyrighted software that is licensed under the GPL.You may obtain the complete Corresponding Source code from us, by sending a request to: 
-GPL Compliance Division
-cc Senior IoT Apps Engineer 
-ARM Inc.
-Encino Trace
-5707 Southwest Pkwy
-Bld 1 Suite 100
-Austin, TX 78735
