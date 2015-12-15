@@ -5,8 +5,6 @@ A simpler way to use yotta on OS X
 1. Download and run the .dmg file
 2. Copy yotta.app to your applications folder
 3. run yotta.app, this will open sandboxed virtual environment to run yotta from
-[![installing yotta on osx](http://i.ytimg.com/vi/U-9P3EBk3Sw/mqdefault.jpg)](http://www.youtube.com/watch?v=U-9P3EBk3Sw)
-
 
 ## Technical Details
 The yotta.app is created using the [Platypus Installer System](http://sveinbjorn.org/platypus/). 
