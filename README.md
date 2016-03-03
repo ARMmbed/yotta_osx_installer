@@ -15,7 +15,7 @@ The yotta.app is littel more than 3 directories
 * *`workspace`* - This is the python virtual environment. It has been modified to run on localized path variables and to have its path point to the `prerequisites` folder.
 
 ## License
-Yotta Windows Installer is licensed under Apache-2.0
+Yotta OS X Installer is licensed under Apache-2.0
 
 ## Contributions / Pull Requests
 All contributions are Apache 2.0. Only submit contributions where you have authored all of the code. If you do this on work time make sure your employer is cool with this.
